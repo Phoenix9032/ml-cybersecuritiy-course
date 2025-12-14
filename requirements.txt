@@ -8,3 +8,4 @@ scikit-learn
 gensim
 scikit-multiflow
 keras
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
